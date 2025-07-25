@@ -1,5 +1,5 @@
 {application, beam_window, [
-    {description, "An OTP library"},
+    {description, "The missing window library of the BEAM ecosystem."},
     {vsn, "0.1.0"},
     {registered, []},
     {applications, [
